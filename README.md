@@ -13,12 +13,12 @@
 ## 🛠 Языки и технологии
 
 <p align="center">
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/python.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/numpy.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/pandas.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/scipy.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/python.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/numpy.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/pandas.svg" height="30" alt="JavaScript"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/scipy.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" height="30" alt="JavaScript" />
 </p>
 
 <p align="center">
