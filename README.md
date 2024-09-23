@@ -14,27 +14,24 @@
 
 <p align="center">
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/python.svg" />
-  <img src="" />
-  <img src=" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/numpy.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/pandas.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/scipy.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" />
 </p>
 
 <p align="center">
-  <img src="" />
-  <img src="" />
-  <img src="" 
-  <img src="" />
-  <img src="" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/sql-database-generic-svgrepo-com.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/clickhouse.svg" />
+  <img src=""/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/redash.svg"/>
 </p>
 
 <p align="center">
-  <!-- Третья строка с иконками -->
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/tableau.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/git.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Microsoft_Excel-Logo.wine.svg" />
 </p>
 
 
