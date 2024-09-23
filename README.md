@@ -12,6 +12,32 @@
 
 ## 🛠 Языки и технологии
 
+<p align="center">
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/python.svg" />
+  <img src="" />
+  <img src=" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+  <img src="" />
+  <img src="" 
+  <img src="" />
+  <img src="" />
+</p>
+
+<p align="center">
+  <!-- Третья строка с иконками -->
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+</p>
+
+
 ## 📊 Проекты
 
 | Название проекта         | Описание                                                                                                                                                   | Стек                                                        |
