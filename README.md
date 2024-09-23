@@ -18,20 +18,20 @@
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/pandas.svg" height="30" alt="JavaScript"/>
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/scipy.svg" height="30" alt="JavaScript" />
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/seaborn-1.svg" height="30" alt="JavaScript" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/sql-database-generic-svgrepo-com.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/clickhouse.svg" />
-  <img src=""/>
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/redash.svg"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/sql-database-generic-svgrepo-com.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/clickhouse.svg" height="30" alt="JavaScript" />
+  <img src="" height="30" alt="JavaScript"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/redash.svg" height="30" alt="JavaScript"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/tableau.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/git.svg" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Microsoft_Excel-Logo.wine.svg" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/tableau.svg" height="30" alt="JavaScript"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/git.svg" height="30" alt="JavaScript"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Microsoft_Excel-Logo.wine.svg" height="30" alt="JavaScript"/>
 </p>
 
 
