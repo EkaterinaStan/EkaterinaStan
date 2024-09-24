@@ -13,25 +13,25 @@
 ## 🛠 Языки и технологии
 
 <p align="center">
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/python.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/numpy.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/pandas.svg" height="30" alt="JavaScript"/>
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/scipy.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/seaborn-1.svg" height="30" alt="JavaScript" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/python.svg" height="30" alt="JavaScript" title="Python"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/numpy.svg" height="30" alt="JavaScript" title="Numpy"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/pandas.svg" height="30" alt="JavaScript" title="Pandas"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/scipy.svg" height="30" alt="JavaScript" title="Scipy" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Matplotlib_icon.svg" height="30" alt="JavaScript" title="Matplotlib"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/seaborn-1.svg" height="30" alt="JavaScript" title="Seaborn"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/sql-database-generic-svgrepo-com.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/clickhouse.svg" height="30" alt="JavaScript" />
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/postgresql.svg" height="30" alt="JavaScript"/>
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/redash.svg" height="30" alt="JavaScript"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/sql-database-generic-svgrepo-com.svg" height="30" alt="JavaScript" title="SQL" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/clickhouse.svg" height="30" alt="JavaScript" title="ClickHouse"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/postgresql.svg" height="30" alt="JavaScript" title="PostgreSQL" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/redash.svg" height="30" alt="JavaScript" title="Redash" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/tableau.svg" height="30" alt="JavaScript"/>
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/git.svg" height="30" alt="JavaScript"/>
-  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Microsoft_Excel-Logo.wine.svg" height="30" alt="JavaScript"/>
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/tableau.svg" height="30" alt="JavaScript" title="Tableau" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/git.svg" height="30" alt="JavaScript" title="Git" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/Microsoft_Excel-Logo.wine.svg" height="30" alt="JavaScript" title="Excel" />
 </p>
 
 
