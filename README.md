@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/sql-database-generic-svgrepo-com.svg" height="30" alt="JavaScript" title="SQL" />
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/clickhouse-color.svg" height="30" alt="JavaScript" title="ClickHouse"/>
-  <img src="" height="30" alt="JavaScript" title="PostgreSQL" />
+  <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/postgresql-color.svg" height="30" alt="JavaScript" title="PostgreSQL" />
   <img src="https://github.com/EkaterinaStan/EkaterinaStan/blob/main/icons/redash-color.svg" height="30" alt="JavaScript" title="Redash" />
 </p>
 
